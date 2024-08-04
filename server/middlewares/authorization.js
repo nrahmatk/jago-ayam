@@ -3,7 +3,6 @@ const {Cuisine} = require('../models')
 
 async function authorization(req, res, next) {
     try {
-        console.log('masuk')
         const checkAuthorId = await Cuisine.findByPk(req.params.cuisineId)
         if(!checkAuthorId){
             throw {name: "ITEM_NOT_FOUND"}

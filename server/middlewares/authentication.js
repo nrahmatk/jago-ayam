@@ -18,12 +18,11 @@ async function authentication(req, res, next) {
 
         req.user = {
             id: user.id,
+            role: user.role
         }
 
         next()
     } catch (error) {
-        console.log(error)
-
         next(error)
     }
 }
