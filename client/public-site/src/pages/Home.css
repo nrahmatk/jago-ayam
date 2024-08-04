@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.container-cuisine {
+  box-sizing: border-box;
+  margin: 56px auto 120px;
+  padding: 0 165px;
+  max-width: 1440px;
+}
+
+.scroll-menu {
+  height: 110px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid-title {
+  font-family: Inter;
+  font-size: 32px;
+  line-height: calc(1.5 * 32px);
+  color: #303030;
+  margin: 0;
+  font-weight: bold;
+}
+
+.grid-description {
+  margin-top: 8px;
+  font-family: Inter;
+  font-weight: regular;
+  font-size: 20px;
+  line-height: calc(1.5 * 20px);
+  color: #707070;
+}
+
+.grid-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 32px;
+  width: 100%;
+}
+
+.brand-discovery {
+  box-sizing: border-box;
+  margin: 56px auto 120px;
+  padding: 0 165px;
+  max-width: 1440px;
+}
+
+.brand-discovery-text {
+  text-align: center;
+  font-family: Inter, serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: calc(1.5 * 20px);
+  color: #707070
+} 
+
+.brand-discovery .logo_wrapper {
+  box-sizing: border-box;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 42px 0;
+  max-width: 1440px
+}
+.brand-discovery .logo {
+  width: 50%;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.brand-discovery .gofood {
+  max-height: 30px
+}
+.brand-discovery .grabfood {
+  max-height: 30px
+}
+.brand-discovery .traveloka {
+  max-height: 30px
+}
+.brand-discovery .shopeefood {
+  max-height: 30px
+}
+
+.custom-page {
+  display: flex;
+  margin-top: 20px;
+  max-width: 75%;
+  align-items: center; 
+  gap: 10px; 
+}
+
+.custom-item {
+  flex: 1; 
+  display: flex;
+}
+.custom-search, .custom-select, .custom-sort {
+  width: 100%;
+}
+
+.custom-search {
+  background-color: #fff;
+  border: 1px solid #bc1433;
+  border-radius: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.custom-select {
+  height: 42px;
+  border: 1px solid #bc1433;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: 16px;
+  color: #707070;
+  background-color: #fff;
+  outline: none;
+}
+
+.custom-sort {
+  background-color: #bc1433;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  height: 42px; 
+}
+
+
+.select-style:focus {
+  border-color: #a01228; 
+}
+
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  height: 42px;
+}
+
+.pagination button {
+  background-color: #fff;
+  border: 2px solid #ddd;
+  color: #333;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 14px;
+  margin: 0 5px;
+  padding: 8px 12px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.pagination button:hover {
+  background-color: #f0f0f0;
+}
+
+.pagination button.active {
+  background-color: #bc1433;
+  color: #fff;
+}
+
+.scroll-space {
+  height: 50px;
+}
+
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 9999; 
+}
+
+.spinner {
+  border: 8px solid #f3f3f3; 
+  border-top: 8px solid #bc1433; 
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-overlay p {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}

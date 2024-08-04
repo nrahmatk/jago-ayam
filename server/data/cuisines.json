@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Butter Chicken + Naan",
+    "description": "Potongan ayam panggang dicampur kuah kari tomat & saus butter yang creamy!Disajikan sama roti naan",
+    "price": 49900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717910725/iv4wr8elaxorxpbo2u5m.png",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Penyet Ketumbar Sambal Matah",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, ditemani sambal Matah yang segar dan sedikit pedas.",
+    "price": 28500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911098/zd1d4s8tmlgg513mvdi8.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Tori Steak Teriyaki Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang, dipadukan dengan saus Teriyaki Jepang yang autentik.",
+    "price": 44000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911125/o3dkam1jhlhfjvlv1dl8.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Chicken Rice Bowl",
+    "description": "Popcorn Chicken (boneless) + Nasi + Telur Mata Sapi + Extra Mayo. ",
+    "price": 46500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911137/qludsdqyoe65qjutnh0l.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Curry Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Kari disajikan dengan nasi khas Jepang",
+    "price": 46000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911145/e1hussm7sz1px5eecjac.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Penyet Ketumbar Sambal Kacang",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, disertai sensasi gurih dan pedas dari sambal kacang yang pasti akan memikat selera kamu.",
+    "price": 28500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911153/pwvgjllxa8pe6oxchtjv.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Chicken Tikka Masala + Naan",
+    "description": "Potongan ayam tikka panggang dicampur kuah kari rempah spesial Accha. Disajikan dengan roti naan",
+    "price": 49900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911162/vwuzfumiimnd6ondimg9.png",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Geprek Ambyar Nasi Wangi Sambal Matah",
+    "description": "Nasi Wangi Paling JUARA (agak pedes ya). Pake Ayam Koplo Sambel Matah Campuran Tiga Diva Bawang, Cabe, dan Daun Jeruk (alat makan hanya disediakan berdasarkan permintaan)",
+    "price": 28900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911176/zy2p9agydeuthnwq6zpb.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Penyet Ketumbar Sambal Original",
+    "description": "Nasi dengan potongan Ayam bumbu ketumbar yang harum dilumuri sambal spesial khas Bu Tumbar yang gurih dan pedas.",
+    "price": 28500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911190/nkpqntkapljhhverbllp.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Mentai Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Mentai yang sedikit dibakar dan tobiko, disajikan dengan nasi khas Jepang",
+    "price": 38000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911197/khygjwbqyohcjyjznbar.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Korean Chicken Wings",
+    "description": "5 Pcs Korean Chicken Wings. ",
+    "price": 47000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911204/vxuu8zqbyskqzl6kk3ow.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Geprek Ambyar Nasi Wangi Sambal Original",
+    "description": "Nasi Wangi TerENAK Sejagat Raya (agak pedes ya). Makannya pake Ayam Koplo Sambel Original dicampur sama Telur Orak-Arik, Serundeng, dan Kremesan (alat makan hanya disediakan berdasarkan permintaan)",
+    "price": 28900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911211/rsdxjepg2whqk1z3mo8g.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Penyet Ketumbar Sambal Korek",
+    "description": "Penggemar pedas wajib coba! Nasi dengan potongan Ayam bumbu ketumbar yang harum dan dilumuri sambal Korek yang pedas nikmat. (Potongan Ayam yang tersedia)",
+    "price": 28500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911218/x2fckf9d6zmcu5u2q9le.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Fried Chicken Rice Set",
+    "description": "1 Pc Fried Chicken + Nasi. ",
+    "price": 34000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911226/wnz8rudmdbbhuh5o21a1.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Tori Steak Hickory Smoke Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang dipadukan dengan saus smokey, manis, dan tajam",
+    "price": 44000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911233/m5vtq39cbvp3qnthgsro.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Fried Chicken Biryani Rice Set",
+    "description": "Perpaduan paling yahud dari nasi biryani dan ayam goreng juicy dengan saus rempah yang gurih dan aromatik khas ACCHA.",
+    "price": 69900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911240/lhwkpzrojvunvb3bs22s.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "2 Pcs Fried Chicken Rice Set",
+    "description": "2 Pcs Fried Chicken + Nasi.",
+    "price": 51000,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911246/ppzw3h9kanwwxg8ck6qy.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Geprek Ambyar Sambal Ori. Mozza",
+    "description": "Paket Nasi + Ayam Khas Ayam Koplo Pake Keju Mozza Meler-Meler Enak Suer! (alat makan hanya disediakan berdasarkan permintaan)",
+    "price": 34400,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911257/nvpbml5b30gkp9dujhg4.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Chicken Kofta Biryani Rice Bowl",
+    "description": "Nasi Basmati yang dimasak dengan rempah khas India dan Chicken Kofta si Bakso khas India!",
+    "price": 44900,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911257/nvpbml5b30gkp9dujhg4.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Penyet Ketumbar Sambal Kecombrang",
+    "description": "Kelezatan ganda! Nasi dengan potongan ayam berbumbu ketumbar yang harum, ditemani sambal kecombrang yang wangi, segar, dan memberikan sentuhan pedas, dijamin bikin ketagihan.",
+    "price": 28500,
+    "imgUrl": "https://res.cloudinary.com/dszhu92hc/image/upload/v1717911269/haqhbha3s81q1ra64tvq.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  }
+]

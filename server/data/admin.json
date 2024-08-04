@@ -1,0 +1,18 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "08123456123", 
+        "address": "Surabaya"
+    },
+    {
+        "username": "admin1",
+        "email": "admin1@mail.com",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "08123456123", 
+        "address": "Surabaya"
+    }
+]

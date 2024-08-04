@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+
+
+.Banner_HeroSection {
+    max-width: 1440px;
+    min-height: 712px;
+    margin: auto;
+    padding: 24px 32px 0;
+    box-sizing: border-box;
+    display: flex;
+    grid-gap: 48px;
+    gap: 48px;
+}
+
+.Banner_HeroSection h2, h3 {
+  color: #303030;
+}
+
+.Content {
+    flex: 1 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.Title {
+    font-family: Inter,sans-serif;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 80px;
+    color: #303030;
+    max-width: 589px
+}
+
+.Description {
+    margin-top: 16px;
+    font-family: Inter,sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #707070;
+    max-width: 589px
+}
+
+.Container {
+    margin-top: 56px;
+    display: flex;
+    grid-gap: 16px;
+    gap: 16px
+}
+
+.SeeBrand {
+    color: #fff;
+    line-height: 24px;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+.HeroImage {
+    flex: 1 1
+}
+
+.HeroImage img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 36px
+}
+
+.button-background {
+    background-color: #bc1433;
+    color: white;
+    height: auto;
+    padding: 16px 24px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.button-border {
+    background-color: white;
+    color: #bc1433;
+    height: auto;
+    padding: 16px 24px;
+    border: 2px solid #bc1433;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.button-border:hover, .button-background:hover {
+    opacity: 0.8;
+}

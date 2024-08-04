@@ -1,0 +1,52 @@
+.grid-item-row {
+  flex-basis: calc(33.3333% - 10px);
+  margin-bottom: 48px;
+}
+
+.card {
+  position: relative;
+  padding-top: 100%;
+  width: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.card-img {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.card-content {
+  margin-top: 24px;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.card-title {
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: calc(1.5 * 24px);
+  color: #303030;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.card-desc {
+  font-family: Inter;
+  font-weight: regular;
+  font-size: 20px;
+  line-height: calc(1.5 * 20px);
+  color: #707070;
+  overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+}
